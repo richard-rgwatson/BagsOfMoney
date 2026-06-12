@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid w16 w16cex w16sdtdh w16sdtfl w16du wp14">
+  <w:body>
+    <w:p w14:paraId="3C81D0BC" w14:textId="0CD9283F" w:rsidR="00F51D86" w:rsidRDefault="006855BF">
+      <w:r>
+        <w:t>I want to build an application to manage my finances.  I use a technique called envelope budgeting.  The application must:</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3109F22F" w14:textId="77777777" w:rsidR="00416331" w:rsidRDefault="00416331" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Be called &#x201C;Bags Of Money&#x201D;</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7ABD3204" w14:textId="1184DC73" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Initially be deployed locally but expect to be deployed in the cloud at a later date</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5490D906" w14:textId="01EC279B" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Have a web front end</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="41E639D2" w14:textId="3D7DAC21" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Mostly be developed using Python script</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2CB64AAE" w14:textId="3123299D" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Be modular by design so that new modules can be added at a later date</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1232AAA7" w14:textId="2A3A1351" w:rsidR="000417B4" w:rsidRDefault="000417B4" w:rsidP="006855BF">
+      <w:r>
+        <w:t>Validation</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="12490D84" w14:textId="38C064BE" w:rsidR="000417B4" w:rsidRDefault="000417B4" w:rsidP="000417B4">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Have an automated test suite to validate the system works after maintenance and enhancements</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="73861CC1" w14:textId="1CC37A2C" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="006855BF">
+      <w:r>
+        <w:t>User management</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="558CA28C" w14:textId="0E0E2B4D" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="005D259C">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The application must be user protected</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="0F44C7F4" w14:textId="77777777" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="005D259C">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Have the ability for a user to reset their password</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="1E7D291A" w14:textId="648132A5" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="005D259C">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Users to have allocated roles.  Either user or administrator</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="481A4274" w14:textId="11E9A58E" w:rsidR="00416331" w:rsidRDefault="00416331" w:rsidP="006855BF">
+      <w:r>
+        <w:t>API</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="3B4A3ADB" w14:textId="77777777" w:rsidR="00416331" w:rsidRDefault="00416331" w:rsidP="00416331">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Provide an OpenAPI to CRUD all types of information in the database</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="445E5A05" w14:textId="659CB6B6" w:rsidR="006855BF" w:rsidRDefault="005D259C" w:rsidP="006855BF">
+      <w:r>
+        <w:t>Database backend</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="7120D277" w14:textId="77777777" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="005D259C">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The tool must have a basic database backend</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="07AF346F" w14:textId="77777777" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="005D259C">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Tables to se able to be visualized by administrators</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="5DAA1547" w14:textId="35B14C6E" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>A list of categories transactions can be assigned to</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="4893E337" w14:textId="2D91970E" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to store transactions from multiple bank accounts</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="55DC05C4" w14:textId="3F4F4D2D" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="006855BF">
+      <w:r>
+        <w:t>Bank Transactions</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="689069FF" w14:textId="77777777" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="00230A87">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to enter transactions by hand for multiple bank accounts</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="073F4E0E" w14:textId="10F3439C" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="00230A87">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to define and manipulate recurring transactions</w:t>
+      </w:r>
+      
+      
+    </w:p>
+    <w:p w14:paraId="22A23093" w14:textId="77777777" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="00230A87">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Support OpenBanking to download transactions from multiple bank accounts</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0E99ED7F" w14:textId="77777777" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="00230A87">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>OpenBanking to be subject to a three month timeout whereby the configuration needs to be refreshed</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="432E47CD" w14:textId="77777777" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="00230A87">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability for the user to manually reconcile transactions with bank account transactions</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="6185597D" w14:textId="608DCE70" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="00230A87">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to automatically suggest reconciliation matches between local transactions and bank account transactions.  No changes to be committed without the user agreeing</w:t>
+      </w:r>
+      
+    </w:p>
+    <w:p w14:paraId="0ED5E4FE" w14:textId="25C9865D" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>Have an AI function to categorize transactions against a managed list of categories provided by the user</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="19734D81" w14:textId="41C5A1C6" w:rsidR="006855BF" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:r>
+        <w:lastRenderedPageBreak/>
+        <w:t>Envelope Budgeting</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="13C559DA" w14:textId="28BB6C56" w:rsidR="005D259C" w:rsidRDefault="006855BF" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to allocate money from bank accounts into a general saving &#x201C;pot&#x201D;</w:t>
+      </w:r>
+      
+      
+      
+    </w:p>
+    <w:p w14:paraId="257CACB6" w14:textId="33569453" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="005D259C">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to see the real balance of a bank account and also the balance after subtracting savings</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="2CC9E0D3" w14:textId="77777777" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to allocate money from the savings pot to individual savings goals</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="727DC581" w14:textId="77777777" w:rsidR="005D259C" w:rsidRDefault="005D259C" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+      <w:r>
+        <w:t>The ability to visualize the discrepancy between money available in the savings pot to individual savings goals.  Ie see how much money is available to save or how much money needs to be drawn from the savings goals</w:t>
+      </w:r>
+    </w:p>
+    <w:p w14:paraId="0CD5BBB3" w14:textId="77777777" w:rsidR="00230A87" w:rsidRDefault="00230A87" w:rsidP="006855BF">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:numPr>
+          <w:ilvl w:val="0"/>
+          <w:numId w:val="1"/>
+        </w:numPr>
+      </w:pPr>
+    </w:p>
+    <w:sectPr w:rsidR="00230A87">
+      <w:pgSz w:w="11906" w:h="16838"/>
+      <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>
+      <w:cols w:space="708"/>
+      <w:docGrid w:linePitch="360"/>
+    </w:sectPr>
+  </w:body>
+</w:document>
